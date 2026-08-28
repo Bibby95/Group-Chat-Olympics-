@@ -1,0 +1,26 @@
+# ============================================
+# Group Chat Olympics — Local/private data
+# NEVER commit personal iMessage data
+# ============================================
+
+# iMessage database snapshots
+data/
+
+# Generated analysis
+out/
+
+# Personal participant mappings
+names.json
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE/editor
+.vscode/
+.idea/
