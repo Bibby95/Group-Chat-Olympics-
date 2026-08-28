@@ -1,4 +1,4 @@
-# laugh-leaderboard
+Group Chat Olympics!!!!
 
 Ranks an iMessage group chat by messages sent, laughs received, laughs given, and
 laughs per 100 messages. Local only, stdlib only, macOS + Python 3.9+.
@@ -46,5 +46,3 @@ the `attributedBody` typedstream blob, which is parsed best-effort.
 
 `data/`, `out/`, and `names.json` are gitignored — don't commit your chat db or
 your friends' numbers.
-
-MIT
